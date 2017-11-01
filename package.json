@@ -1,0 +1,30 @@
+{
+  "name": "mean-angular2",
+  "version": "1.0.0",
+  "description": "Mean-Stack-With-AG2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vannguyen96/Mean-Stack-With-AG2.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "VanNguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vannguyen96/Mean-Stack-With-AG2/issues"
+  },
+  "homepage": "https://github.com/vannguyen96/Mean-Stack-With-AG2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.5"
+  }
+}
